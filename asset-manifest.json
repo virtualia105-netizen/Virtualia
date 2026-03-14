@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smart-assitant-537/static/css/main.245e17bd.css",
+    "main.js": "/smart-assitant-537/static/js/main.e8e34b43.js",
+    "index.html": "/smart-assitant-537/index.html",
+    "main.245e17bd.css.map": "/smart-assitant-537/static/css/main.245e17bd.css.map",
+    "main.e8e34b43.js.map": "/smart-assitant-537/static/js/main.e8e34b43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.245e17bd.css",
+    "static/js/main.e8e34b43.js"
+  ]
+}
